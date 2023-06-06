@@ -1,5 +1,7 @@
 # CSNePS - Concurrent SNePS
 
+### [README (EN)](README.md) | [README (RU)](README_RU.md)
+
 CSNePS is an implementation and extension of the [SNePS 3](http://www.cse.buffalo.edu/sneps/Projects/sneps3.html) knowledge representation and reasoning system specification. CSNePS, designed to leverage concurrency during inference, is crafted in the Clojure programming language.
 
 For a deeper understanding of usage, consult our [user manual](./doc/manual/manual.pdf) and [GUI manual](./doc/SNePSGUIDocs.pdf).
